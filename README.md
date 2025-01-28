@@ -41,7 +41,8 @@ The dataset was obtained from 👉 [Kaggle - Paris 2024 Olympic Summer Games](ht
 ## Note  
 1) Since I found the original dataset too detailed for my purpose in the project, I used SQL to manipulate and refine the data. Just in case, both the raw data and the newly extracted data (after my SQL manipulations) are provided within the data file.
 
-2) I have also uploaded my dashboard and Paris 2024 Olympics-related visualizations as PNG files into the Tableau workbook. You can easily access them.
+2) I have also uploaded my dashboard and Paris 2024 Olympics-related visualizations as PNG files into the [tableau file](tableau)
+) workbook. You can easily access them.
 
 3) Lastly, if you want to explore the dashboard interactively, you can visit my Tableau 👉 [profile](https://public.tableau.com/app/profile/ahmet.berke.karaca/viz/Paris2024_17368112108000/Dashboard2).
 
