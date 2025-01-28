@@ -36,12 +36,12 @@ The dataset for this project was sourced from [Kaggle - Paris 2024 Olympic Summe
 - **Data Cleaning**: Preparing and transforming data for analysis.
 
 ## Acknowledgments  
-The dataset was obtained from 👉 [Kaggle - Paris 2024 Olympic Summer Games](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games). Maybe, you can use the whole dataset provided in your own porject.
+The dataset was obtained from 👉 [Kaggle - Paris 2024 Olympic Summer Games](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games). Maybe, you can use the whole dataset provided in your own project.
 
-**Note**:  
-Since I found the original dataset more comprehensive for my purpose in the project, I used SQL to manipulate and refine the data. Just in case, both the raw data and the newly extracted data (after my SQL manipulations) are provided within the data file.
+## Note  
+1) Since I found the original dataset too detailed for my purpose in the project, I used SQL to manipulate and refine the data. Just in case, both the raw data and the newly extracted data (after my SQL manipulations) are provided within the data file.
 
-I have also uploaded my dashboard and Paris 2024 Olympics-related visualizations as PNG files into the Tableau workbook. You can easily access them.
+2) I have also uploaded my dashboard and Paris 2024 Olympics-related visualizations as PNG files into the Tableau workbook. You can easily access them.
 
-Lastly, if you want to explore the dashboard interactively, you can visit my Tableau 👉 [profile](https://public.tableau.com/app/profile/ahmet.berke.karaca/viz/Paris2024_17368112108000/Dashboard2).
+3) Lastly, if you want to explore the dashboard interactively, you can visit my Tableau 👉 [profile](https://public.tableau.com/app/profile/ahmet.berke.karaca/viz/Paris2024_17368112108000/Dashboard2).
 
