@@ -1,6 +1,6 @@
 # Paris-2024-Data-Visualisation-Project
 
-![Paris 2024 Olympics Dashboard](https://github.com/AhmetBerkeKrc/Paris-2024-Data-Visualisation-Project/blob/main/tableau/paris_dashboard.png)  
+![Paris 2024 Olympics Dashboard](https://github.com/AhmetBerkeKrc/Paris-2024-Data-Visualisation-roject/blob/main/tableau/Paris%202024%20Dashboard%20(updated).png)  
 This project provides a comprehensive analysis of the Paris 2024 Olympics using a dashboard to visualize key metrics and insights. The analysis includes top-performing countries, athletes, and various statistics related to medal counts, athlete demographics, and more. Since the dataset I found is quite large, I only used the tables that are relevant to my analysis; depending on the project you're building, additional tables can be added. Furthermore, I intend to add a page in the future where event results will be included and interactively analyzed; therefore, I didn't use all the tables I manipulated with SQL in Tableau, but rather prepared them for future project developments.
 
 ## Project Overview  
